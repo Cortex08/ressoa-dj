@@ -1,0 +1,9 @@
+{
+  "name": "ressoa-dj",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bot de música das salas de voz do Ressoa",
+  "scripts": { "start": "node server.mjs" },
+  "engines": { "node": ">=20" }
+}
